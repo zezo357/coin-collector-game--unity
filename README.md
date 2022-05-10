@@ -1,5 +1,6 @@
 # coin-collector-game--unity
-unity game where you collect coins
+Unity game where you collect coins
+
 
 # Controls 
 - WASD for movement 
