@@ -1,4 +1,4 @@
-# coin-collector-game--unity
+# coin collector game in unity
 Unity game where you collect coins
 
 
